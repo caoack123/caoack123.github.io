@@ -5,6 +5,7 @@ date: 2016-07-12
 excerpt: "crazy的实习"
 tags: [sample post, 我写的, test]
 comments: true
+feature: http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/04/7.png
 ---
 ##团队官方介绍
 <style type="text/css">
