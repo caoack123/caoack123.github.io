@@ -5,6 +5,7 @@ date: 2016-07-12
 excerpt: "天下文章一大抄"
 tags: [sample post, readability, test]
 comments: true
+feature: http://7xvnln.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-12%20%E4%B8%8B%E5%8D%8810.20.18.png
 ---
 下厨房首页上的那些话（加粗是我觉得很赞的，陆续更新中）———————
 
