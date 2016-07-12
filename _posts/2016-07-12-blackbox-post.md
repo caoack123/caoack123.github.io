@@ -7,11 +7,13 @@ tags: [sample post, 我写的, test]
 comments: true
 ---
 ##团队官方介绍
+<style type="text/css">
+img{width:150px;height: 150px;text-align: center;}</style>
 <a href="http://www.lagou.com/gongsi/121645.html"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blogMrS.png"></a>
 MrS.ai是基于人工智能（Artificial Intelligence）和人工监督的虚拟助理。在各种APP泛滥的今天，用户只需要打开S先生，便可以完成从预订机票酒店到安排周末的约会餐厅等各种需求。人工智能会对用户的需求进行智能分词、语义分析，再基于海量的信息搜索和机器学习，来提供个性化的推荐来满足用户不同场景的需求。S先生同时为顶尖品牌和机构服务他们的重要客户。团队成员是连环创业者，拥有海外名校背景和多年互联网产品经验,多次获得VC投资。 
 <a href="http://www.nuoyadalu.com/"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E8%AF%BA%E4%BA%9A%E5%A4%A7%E9%99%86.png"></a>
 诺亚大陆是一款基于社交关系的人脉网购商城，目标是让人们更简单的买到好商品。就像Uber的邀请码和Airbnb的优惠券一样，当人们使用过好的产品后总有推荐的欲望。诺亚大陆基于朋友圈的强关系链，人们在微信上只需上传图片描述及商品信息，即可生成分享海报，让人们将好的商品便捷的推荐给更多的人。创始人是一个充满奇思妙想的14岁小女孩喻言，其父喻华锋先生（兼公司CTO）从业通信及电商系统设计领域20余年，曾工作于华为和美国Harris。诺亚大陆已获得当当网创始人李国庆100万人民币的投资及铂涛集团1亿线下流量的赞助。 
-<a href="https://thesquirrelz.com/">img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E6%9D%BE%E9%BC%A0.png"></a><
+<a href="https://thesquirrelz.com/">img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E6%9D%BE%E9%BC%A0.png"></a>
 The squirrelz是一个面向海外设计师提供免费的剩余生产材料共享平台。很多工厂都存在边角料以及不合格需销毁的产品，但其中很多材料可以再利用，如布料、塑料、纽扣等。对设计感兴趣的人可以在the squirrelz上寻找免费的材料，完成自己想要的作品。今年二月，The squirrelz成功融资50万美金。其创始人Bunny Yan是纽约科技时尚学院的毕业生，从事服装设计15年，，她曾经为国际知名品牌做过市场营销和服装设计，由于时尚界存在很严重的布料浪费问题，所以有志于通过该平台创建新的环保模式。 
 <a href="https://pomotodo.com/"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blogpomotodo.png"></a>
 番茄土豆是基于番茄工作法和任务管理的个人效率工具。通过提供从收集想法、规划任务到专注工作、归纳分析的完整工作流程管理。番茄土豆帮助用户更搞笑的完成工作。番茄土豆始于2012年，目前已有十种语言的版本，可在ios、android、mac、window、chrome等5个平台上运行。在零费用推广的运营模式下，靠良好的用户体验和服务反馈，已经在全球范围内积累60万用户。番茄土豆团队一切以用户为核心，产品无广告，下一步计划开发团队版，来帮助中小型团队量化工作内容，提高团队效率。 
