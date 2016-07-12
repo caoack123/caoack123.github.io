@@ -7,21 +7,21 @@ tags: [sample post, 我写的, test]
 comments: true
 ---
 ##团队官方介绍
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blogMrS.png">
+<a href="http://www.lagou.com/gongsi/121645.html"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blogMrS.png"></a>
 MrS.ai是基于人工智能（Artificial Intelligence）和人工监督的虚拟助理。在各种APP泛滥的今天，用户只需要打开S先生，便可以完成从预订机票酒店到安排周末的约会餐厅等各种需求。人工智能会对用户的需求进行智能分词、语义分析，再基于海量的信息搜索和机器学习，来提供个性化的推荐来满足用户不同场景的需求。S先生同时为顶尖品牌和机构服务他们的重要客户。团队成员是连环创业者，拥有海外名校背景和多年互联网产品经验,多次获得VC投资。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E8%AF%BA%E4%BA%9A%E5%A4%A7%E9%99%86.png">
+<a href="http://www.nuoyadalu.com/"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E8%AF%BA%E4%BA%9A%E5%A4%A7%E9%99%86.png"></a>
 诺亚大陆是一款基于社交关系的人脉网购商城，目标是让人们更简单的买到好商品。就像Uber的邀请码和Airbnb的优惠券一样，当人们使用过好的产品后总有推荐的欲望。诺亚大陆基于朋友圈的强关系链，人们在微信上只需上传图片描述及商品信息，即可生成分享海报，让人们将好的商品便捷的推荐给更多的人。创始人是一个充满奇思妙想的14岁小女孩喻言，其父喻华锋先生（兼公司CTO）从业通信及电商系统设计领域20余年，曾工作于华为和美国Harris。诺亚大陆已获得当当网创始人李国庆100万人民币的投资及铂涛集团1亿线下流量的赞助。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E6%9D%BE%E9%BC%A0.png">
+<a href="https://thesquirrelz.com/">img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E6%9D%BE%E9%BC%A0.png"></a><
 The squirrelz是一个面向海外设计师提供免费的剩余生产材料共享平台。很多工厂都存在边角料以及不合格需销毁的产品，但其中很多材料可以再利用，如布料、塑料、纽扣等。对设计感兴趣的人可以在the squirrelz上寻找免费的材料，完成自己想要的作品。今年二月，The squirrelz成功融资50万美金。其创始人Bunny Yan是纽约科技时尚学院的毕业生，从事服装设计15年，，她曾经为国际知名品牌做过市场营销和服装设计，由于时尚界存在很严重的布料浪费问题，所以有志于通过该平台创建新的环保模式。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blogpomotodo.png">
+<a href="https://pomotodo.com/"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blogpomotodo.png"></a>
 番茄土豆是基于番茄工作法和任务管理的个人效率工具。通过提供从收集想法、规划任务到专注工作、归纳分析的完整工作流程管理。番茄土豆帮助用户更搞笑的完成工作。番茄土豆始于2012年，目前已有十种语言的版本，可在ios、android、mac、window、chrome等5个平台上运行。在零费用推广的运营模式下，靠良好的用户体验和服务反馈，已经在全球范围内积累60万用户。番茄土豆团队一切以用户为核心，产品无广告，下一步计划开发团队版，来帮助中小型团队量化工作内容，提高团队效率。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blogLinterest.png">
+<a href="http://linterest.com.cn/"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blogLinterest.png"></a>
 Linterest利用共享经济，让喜欢做饭的用户成为Host，喜欢社交和美食的用户成为Guest。通过主题饭局，让更多的人在分享美食的同时还能结识志同道合的朋友，互相获取有意思的知识。Linterest独创的标准化流程+Co-host系统解决了陌生人社交的信任、效率等难题。在没有Linterest工作人员的参与下，饭局也保证能够快速破冰及优质的线下体验。无论你在地球的哪个地方，打开Linterest，你都可以创造或者加入社交饭局。团队有丰富的社会媒体行业从业经验及强大的设计行业背景。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E8%B6%85%E7%BA%A7%E7%94%B5.png">
+<a href="#"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E8%B6%85%E7%BA%A7%E7%94%B5.png"></a>
 超级电团队成立与2015年，致力于为广大新能源车主提供便捷、智能的充电服务。新能源汽车发展迅速，但充电问题却成为阻碍行业发展的瓶颈。新能源车主在城市里要么找不到充电桩，要么找到了也用不了。超级电通过自主研发移动充电设备，结合移动互联网应用和物流技术，为新能源车主提供及时上门的充电服务。团队成员来自UBC、CMU、清华等海内外名校，计划下一步从根本上解决新能源汽车的发展瓶颈。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E7%9D%BF%E8%88%AA.png">
+<a href="#"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blog%E7%9D%BF%E8%88%AA.png"></a>
 睿航科技致力于研发生产基于ARM+WIFI系统的无人驾驶水体测试船。现阶段水下探索的工具领域几乎是空白，如果有价格也很昂贵。无人船采用APP控制，水下可下潜至10米，水上操控范围为500米。主要设计用于水上、水下航拍及环保救援领域。目前已申报3项发明专利，2项实用新型专利及3项软件著作权。团队成员全部是在校大学生，有来自香港科技大学、中山大学、广东工业大学、华南农业大学的科技支持。睿航无人船团队曾入围国际青年创业大赛决赛，获得包括长城会、36氪等机构的投资意向。 
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/blogpratek.png">
+<a href="#"><img src="http://7xvnln.com1.z0.glb.clouddn.com/blogpratek.png"></a>
 Pratek是专注于图像识别领域的深度学习技术方案解决商。拥有强大的算法研究团队。团队研发的深度学习技术曾在三个月期间通过学习6万张狗的图片，能够准确通过上传的狗的图片识别种类，准确率达到99%。现专注于医疗图像识别，已研发出精准图像识别系统并将运用于病理切片分析，解决医疗痛点。团队成员来自海内外知名高校，拥有多名信号分析及深度学习方面的专家，具有较强的科研实力。 
 <img src="http://7xvnln.com1.z0.glb.clouddn.com/blogsmart%20pillbox.png">
 锵盛团队由香港理工大学学生在读期间创立。由于中国逐渐步入老龄化社会，老年人的生活品质是需亟待解决的问题。锵盛利用拥有专利的健康盒子以及远程互动的app，帮助长期服药的病患者，尤其是68-75岁的长者，决绝用药管理以及安全问题。它利用创新的结构设计、云端服务、智能语音互动等创新技术提高用药体验，确保长者用药安全，形成有效的用药报告反馈给子女和医生。后期还会接洽传统的健康医疗体系，进行服务延伸，例如精准医疗、诊后追踪、送药服务等。 
