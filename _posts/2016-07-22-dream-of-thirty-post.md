@@ -7,9 +7,9 @@ tags: [音乐, 文案, 瞎扯]
 comments: true
 feature: http://7xvnln.com1.z0.glb.clouddn.com/helixbar.gif
 ---
-## 理想三旬
+<h1 style="text-align: center;">理想三旬</h1>
 
-雨后有车驶来
+<h2 style="text-align: center;">雨后有车驶来
 
 驶过暮色苍白
 
@@ -92,4 +92,5 @@ feature: http://7xvnln.com1.z0.glb.clouddn.com/helixbar.gif
 以为明白
 
 梦倒塌的地方，今已爬满青苔
+</h2>
 
