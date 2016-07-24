@@ -9,7 +9,7 @@ feature: http://7xvnln.com1.z0.glb.clouddn.com/image/gif/r_nin.gif
 ---
 <center style="font-size: 1.3em">理想三旬 </center>		
 
-<center style="font-size: 1em;">雨后有车驶来</br>
+<center style="font-size: 1em;">雨后有车驶来  
 
 驶过暮色苍白</br>
 
