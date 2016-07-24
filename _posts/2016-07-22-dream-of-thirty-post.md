@@ -5,11 +5,11 @@ date: 2016-07-22
 excerpt: "总有那么一首歌"
 tags: [音乐, 文案, 瞎扯]
 comments: true
-feature: http://7xvnln.com1.z0.glb.clouddn.com/helixbar.gif
+feature: http://7xvnln.com1.z0.glb.clouddn.com/image/gif/r_nin.gif
 ---
-<h1 style="text-align: center;">理想三旬</h1>
+<center style="font-size: 2em">理想三旬</h1>
 
-<h2 style="text-align: center;">雨后有车驶来
+<center style="font-size: 1.5em;">雨后有车驶来
 
 驶过暮色苍白
 
@@ -92,5 +92,5 @@ feature: http://7xvnln.com1.z0.glb.clouddn.com/helixbar.gif
 以为明白
 
 梦倒塌的地方，今已爬满青苔
-</h2>
+</center>
 
