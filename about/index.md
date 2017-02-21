@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center><kbd>C</kbd><kbd>G</kbd><kbd>Q</kbd>is an acronym of a person's name.</center>
-<img src="caoack123.github.io/about/Resume_Cao Guoqiang.png">
+<img src="https://raw.githubusercontent.com/caoack123/caoack123.github.io/master/about/Resume_Cao%20Guoqiang.png">
 
 ## Personal decription
 * All about me is here.
