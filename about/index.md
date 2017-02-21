@@ -7,12 +7,14 @@ comments: false
 ---
     
 <center><kbd>C</kbd><kbd>G</kbd><kbd>Q</kbd>is an acronym of a person's name.</center>
-<img src="http://7xvnln.com1.z0.glb.clouddn.com/cvCV_En.jpg">
+<img src="https://drive.google.com/file/d/0B1QKjOixOzDTR180TzV3X0lBTjRyMkVrWU84RDk5Qk1tM0dN/view?usp=sharing">
 
 ## Personal decription
-* Technically I have nothing to add......
+* All about me is here.
 
+<a href="http://lessnav.com" class="btn btn-success">Less</a>
 <a href="http://lemondeat.com" class="btn btn-success">Lemondeat</a>
+
 
 
 
